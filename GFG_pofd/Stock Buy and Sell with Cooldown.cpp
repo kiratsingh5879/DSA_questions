@@ -1,5 +1,4 @@
 class Solution {
-   
   public:
     int maxProfit(vector<int>& arr) {
           int n = arr.size();
